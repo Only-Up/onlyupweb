@@ -3,7 +3,6 @@
 {
   "leaders":
   [
-  {"name":"TopSpeedRunner","timeInSeconds":0.0},
-
+  {"name":"TopSpeedRunner","timeInSeconds":0.0}
   ]
 }
