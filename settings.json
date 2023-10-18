@@ -4,5 +4,5 @@
     "freeUseCount":3,
     "freeTeleportCooldown":3,
     "enableAdsOnSecondLevels":false,
-    "nextCheckpointPrice" : 100
+    "nextCheckpointPrice" : 2
 }
