@@ -2,6 +2,6 @@
     "cooldown":250,
     "onEveryCheckpoint":false,
     "freeUseCount":2,
-    "freeTeleportCooldown":2,
+    "freeTeleportCooldown":4,
     "enableAdsOnSecondLevels":false
 }
