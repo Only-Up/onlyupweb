@@ -3,5 +3,5 @@
     "onEveryCheckpoint":false,
     "freeUseCount":1,
     "freeTeleportCooldown":2,
-    "enableAdsOnSecondLevels":false
+    "enableAdsOnSecondLevels":true
 }
