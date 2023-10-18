@@ -1,8 +1,8 @@
 {
-    "cooldown": 0,
-    "onEveryCheckpoint":true,
-    "freeUseCount":1,
-    "freeTeleportCooldown":2,
-    "enableAdsOnSecondLevels":true,
-    "nextCheckpointPrice" : 4
+    "cooldown": 100,
+    "onEveryCheckpoint":false,
+    "freeUseCount":3,
+    "freeTeleportCooldown":3,
+    "enableAdsOnSecondLevels":false,
+    "nextCheckpointPrice" : 100
 }
