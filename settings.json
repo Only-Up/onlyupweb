@@ -1,6 +1,6 @@
 {
-    "cooldown":150,
-    "onEveryCheckpoint":false,
-    "freeUseCount":3,
+    "cooldown":250,
+    "onEveryCheckpoint":true,
+    "freeUseCount":2,
     "enableAdsOnSecondLevels":false
 }
