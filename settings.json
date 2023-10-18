@@ -1,7 +1,7 @@
 {
     "cooldown":250,
     "onEveryCheckpoint":false,
-    "freeUseCount":1,
+    "freeUseCount":2,
     "freeTeleportCooldown":2,
     "enableAdsOnSecondLevels":false
 }
