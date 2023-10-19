@@ -4,5 +4,7 @@
     "freeUseCount":3,
     "freeTeleportCooldown":3,
     "enableAdsOnSecondLevels":false,
-    "nextCheckpointPrice" : 2
+    "nextCheckpointPrice" : 2,
+    "world1text" : "Thanks for playing !!!\nWait for the new updates !",
+    "world2text" : "Thanks for support !!!\nWait for the new updates ! \nOur Jump Up Team"
 }
