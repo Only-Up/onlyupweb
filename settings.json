@@ -5,9 +5,9 @@
     "freeTeleportCooldown":2,
     "enableAdsOnSecondLevels":false,
     "nextCheckpointPrice" : 3,
-    "world1text" : "Thanks for playing !!!\nWait for the new updates ! \nWorld 2 MARS Unlocked!",
+    "world1text" : "Thanks for playing !!!\nWait for the new updates ! \nPurchase MARS for new experience!",
     "world2text" : "Thanks for support !!!\nWait for the new updates ! \nOur Jump Up Team",
     "removeAdsPopupFrequency" : 3,
     "enableInterstitial" : false,
-    "canOpenLevelAfterFinish" : true
+    "canOpenLevelAfterFinish" : false
 }
