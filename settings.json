@@ -1,13 +1,13 @@
 {
-    "cooldown": 100,
+    "cooldown": 80,
     "onEveryCheckpoint":false,
     "freeUseCount":3,
-    "freeTeleportCooldown":2,
+    "freeTeleportCooldown":3,
     "enableAdsOnSecondLevels":false,
-    "nextCheckpointPrice" : 3,
+    "nextCheckpointPrice" : 4,
     "world1text" : "Thanks for playing !!!\nWait for the new updates ! \nPurchase MARS for new experience!",
     "world2text" : "Thanks for support !!!\nWait for the new updates ! \nOur Jump Up Team",
-    "removeAdsPopupFrequency" : 3,
-    "enableInterstitial" : false,
+    "removeAdsPopupFrequency" : 4,
+    "enableInterstitial" : true,
     "canOpenLevelAfterFinish" : false
 }
