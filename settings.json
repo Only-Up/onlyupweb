@@ -10,6 +10,6 @@
     "removeAdsPopupFrequency" : 4,
     "enableInterstitial" : true,
     "canOpenLevelAfterFinish" : false,
-    "saveOnFall" : false,
-    "sendData": false
+    "saveOnFall" : true,
+    "sendData": true
 }
