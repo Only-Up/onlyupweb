@@ -9,5 +9,6 @@
     "world2text" : "Thanks for support !!!\nWait for the new updates ! \nOur Jump Up Team",
     "removeAdsPopupFrequency" : 4,
     "enableInterstitial" : true,
-    "canOpenLevelAfterFinish" : false
+    "canOpenLevelAfterFinish" : false,
+    "sendData": true
 }
