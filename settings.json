@@ -11,5 +11,5 @@
     "enableInterstitial" : true,
     "canOpenLevelAfterFinish" : false,
     "saveOnFall" : true,
-    "sendData": false
+    "sendData": true
 }
