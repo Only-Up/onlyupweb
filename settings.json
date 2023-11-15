@@ -19,5 +19,5 @@
     "readFromStorage" : 50,
     "maxEarthHeight" : -190,
     "maxMarsHeight" : -60,
-    "showData" : true
+    "showData" : false
 }
