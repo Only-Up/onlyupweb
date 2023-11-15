@@ -11,5 +11,13 @@
     "enableInterstitial" : true,
     "canOpenLevelAfterFinish" : false,
     "saveOnFall" : true,
-    "sendData": false
+    "sendData": false,
+    "showAdOnLevelStart" : true,
+    "noobsCount" : 5,
+    "proCount" : 5,
+    "minPlayedTime" : 30,
+    "readFromStorage" : 50,
+    "maxEarthHeight" : -190,
+    "maxMarsHeight" : -60,
+    "showData" : true
 }
