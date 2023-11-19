@@ -3,7 +3,7 @@
     "onEveryCheckpoint":false,
     "freeUseCount":3,
     "freeTeleportCooldown":3,
-    "enableAdsOnSecondLevels":false,
+    "enableAdsOnSecondLevels":true,
     "nextCheckpointPrice" : 4,
     "world1text" : "Thanks for playing !!!\nWait for the new updates ! \nPurchase MARS for new experience!",
     "world2text" : "Thanks for support !!!\nWait for the new updates ! \nOur Jump Up Team",
