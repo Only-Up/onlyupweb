@@ -10,7 +10,7 @@
     "removeAdsPopupFrequency" : 4,
     "enableInterstitial" : true,
     "canOpenLevelAfterFinish" : false,
-    "saveOnFall" : false,
+    "saveOnFall" : true,
     "sendData": true,
     "showAdOnLevelStart" : true,
     "noobsCount" : 5,
