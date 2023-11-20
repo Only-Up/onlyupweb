@@ -16,5 +16,5 @@
     "noobsCount" : 5,
     "proCount" : 5,
     "serverAddress" : "http://217.25.92.79:5000/",
-    "showData" : false
+    "showData" : true
 }
