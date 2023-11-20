@@ -3,8 +3,8 @@
     "onEveryCheckpoint":false,
     "freeUseCount":3,
     "freeTeleportCooldown":3,
-    "enableAdsOnSecondLevels":true,
-    "nextCheckpointPrice" : 4,
+    "enableAdsOnSecondLevels":false,
+    "nextCheckpointPrice" : 3,
     "world1text" : "Thanks for playing !!!\nWait for the new updates ! \nPurchase MARS for new experience!",
     "world2text" : "Thanks for support !!!\nWait for the new updates ! \nOur Jump Up Team",
     "removeAdsPopupFrequency" : 4,
@@ -15,6 +15,6 @@
     "showAdOnLevelStart" : true,
     "noobsCount" : 5,
     "proCount" : 5,
-    "serverAddress" : "http://217.25.92.79:500/",
+    "serverAddress" : "http://217.25.92.79:5000/",
     "showData" : true
 }
