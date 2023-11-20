@@ -11,7 +11,7 @@
     "enableInterstitial" : true,
     "canOpenLevelAfterFinish" : false,
     "saveOnFall" : false,
-    "sendData": true,
+    "sendData": false,
     "showAdOnLevelStart" : true,
     "noobsCount" : 5,
     "proCount" : 5,
