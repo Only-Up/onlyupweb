@@ -13,8 +13,8 @@
     "saveOnFall" : true,
     "sendData": true,
     "showAdOnLevelStart" : true,
-    "noobsCount" : 5,
-    "proCount" : 5,
+    "noobsCount" : 6,
+    "proCount" : 6,
     "serverAddress" : "http://217.25.92.79:5000/",
-    "showData" : false
+    "showData" : true
 }
