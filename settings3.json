@@ -18,6 +18,6 @@
     "proCount" : 6,
     "serverAddress" : "http://217.25.92.79:5000/",
     "removeAdsInterstitialPopupFrequency": 3,
-    "earthLite" : true,
+    "earthLite" : false,
     "showData" : false
 }
