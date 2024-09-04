@@ -18,41 +18,35 @@ app_description                           : Only UP! Never Down! New updates soo
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
-
 # Information About Yourself
 your_name                                 : Ionita Serghei                             
 your_link                                 : https://linkyy.co/whitelab                     
 your_city                                 : WorldWide                                
 email_address                             : ionita12@mail.ru
 facebook_username                         :                                           
-instagram_username                        : 
-twitter_username                          : 
-github_username                           : 
+instagram_username                        : ebaehr
+twitter_username                          : ebaehr
+github_username                           : emilbaehr
 youtube_username                          :
-mastodon_link                             : 
+mastodon_link                             : https://mastodon.social/@ebaehr
 
 
 
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Only Up
-    description                           : Move forward only up, never down, best parkour game ever.
-    fontawesome_icon_name                 : magic
-    
-  - title                                 : Cross Platform Mobile support
-    description                           : The app is published on iOS and Android 
-    fontawesome_icon_name                 : mobile
+- title                                 : Only Up
+  description                           : Move forward only up, never down, best parkour game ever.
+  fontawesome_icon_name                 : magic
+  
+- title                                 : Cross Platform Mobile support
+  description                           : The app is published on iOS and Android 
+  fontawesome_icon_name                 : mobile
 
-  - title                                 : Fremium game
-    description                           : The game contains ads, but it is absolute free.
-    fontawesome_icon_name                 : play-circle
-
-
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
-
+- title                                 : Fremium game
+  description                           : The game contains ads, but it is absolute free.
+  fontawesome_icon_name                 : play-circle
+  
 
 
 # Theme Settings
