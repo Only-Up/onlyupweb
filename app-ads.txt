@@ -1,5 +1,5 @@
 # CAS.ai Updated May 14, 2025
-OwnerDomain=cas.ai
+OwnerDomain=cas.aidasda
 cas.ai, 922e6092, DIRECT
 #=== GoogleAds Jan 10, 2025
 google.com, pub-1022958838828668, DIRECT, f08c47fec0942fa0
